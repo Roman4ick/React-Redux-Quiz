@@ -1,6 +1,6 @@
-# Приложение представляет собой открытый сервис по соданию тестов и ивозможности их проходить, SPA реализован с помощью React JS и Redux.
+# Приложение представляет собой открытый сервис по соданию тестов и ивозможности их проходить, SPA реализован с помощью React JS и Redux.  Адрес приложения: www.quizrom.site
 
-Адрес приложения: www.quizrom.site
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
